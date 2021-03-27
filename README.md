@@ -15,8 +15,8 @@
 
 #### Technologies
 
-<img align="left" alt="Dart" width="30px" src="https://seeklogo.com/images/D/dart-logo-86B5DDAA61-seeklogo.com.png"/>
-<img align="left" alt="Flutter" width="30pxpx" src="https://seeklogo.com/images/F/flutter-logo-304BF94F55-seeklogo.com.png" />
+<img align="left" alt="Dart" width="30px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"/>
+<img align="left" alt="Flutter" width="30pxpx" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
 <img align="left" alt="Firebase" width="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />

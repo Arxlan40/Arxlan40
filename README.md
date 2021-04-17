@@ -9,7 +9,6 @@
 - ⚡ Fun fact: A E-Gaming enthusiast
 
 #### You can find me here:
-
 [ <img align="left" alt="Arsalan Umar | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arxlanumer60@gmail.com" />][gmail]
 [ <img target="_blank" align="left" alt="Arsalan Umar | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arxlan40" />][twitter]
 <br />
@@ -24,7 +23,7 @@
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 <br >
 <br/>
-### Latest Medium Articles :page_with_curl:
+#### Latest Medium Articles :page_with_curl:
 
 - [PayPal Payment Integration in Flutter Using WebView](https://arxlan40.medium.com/paypal-payment-integration-in-flutter-using-webview-c12d33a03486)
 - [How to Integrate Google Drive APIs & Use Google Drive as Storage Bucket for flutter Application?](https://arxlan40.medium.com/how-to-integrate-google-drive-apis-use-google-drive-as-storage-bucket-for-flutter-application-2c1daabd47d1)

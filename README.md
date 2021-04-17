@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img alt="Twitter" src="https://img.shields.io/badge/arxlan401%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img alt="Twitter" src="https://img.shields.io/badge/arxlan40%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/arxlan40%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/arxlan_umar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
  
@@ -22,9 +22,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-<br >
-<br/>
-#### Latest Medium Articles :page_with_curl:
+
+### Latest Medium Articles
 
 - [PayPal Payment Integration in Flutter Using WebView](https://arxlan40.medium.com/paypal-payment-integration-in-flutter-using-webview-c12d33a03486)
 - [How to Integrate Google Drive APIs & Use Google Drive as Storage Bucket for flutter Application?](https://arxlan40.medium.com/how-to-integrate-google-drive-apis-use-google-drive-as-storage-bucket-for-flutter-application-2c1daabd47d1)

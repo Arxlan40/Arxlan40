@@ -26,6 +26,7 @@
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
+
 ### Latest Medium Articles :page_with_curl:
 
 - [PayPal Payment Integration in Flutter Using WebView](https://arxlan40.medium.com/paypal-payment-integration-in-flutter-using-webview-c12d33a03486)
@@ -36,7 +37,7 @@
 [![Arsalan Umar's github stats](https://github-readme-stats.vercel.app/api?username=Arxlan40&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/Anonster/github-readme-stats)
 
 #### Most Used Languages
-[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Arxlan40&langs_count=10)](https://github.com/Anonster/github-readme-stats)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Arxlan40&langs_count=5)](https://github.com/Arxlan40/github-readme-stats)
 
 
 

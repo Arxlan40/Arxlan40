@@ -2,8 +2,11 @@
 
 <p align="center">I’m a Mobile application developer with over one year of experience in Flutter cross-platform. Love to keep my hands dirty in coding, designing solutions, code review, and in most of all kind of tech work. I have extensive experience in developing innovative and complex Android and IOS applications.
 
-<br/>
-<br/>
+
+- 🌱 I’m currently learning MERN Stack 😊
+- 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
+- ⛳️ 2021 Goals: Being a Fully Fledged Full Stack Developer and contribute to open source and community
+- ⚡ Fun fact: A E-Gaming enthusiast
 
 #### You can find me here:
 
@@ -39,29 +42,11 @@
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Arxlan40&langs_count=10)](https://github.com/Anonster/github-readme-stats)
 
 
-<details>
-    <summary>📃 Curriculum</summary>
+### Latest Medium Articles :page_with_curl:
 
-## Education
-
-- 📖 **BSc Mechatronics Engineering**
-    
-    📆 2015 - 2019 
-
-    📍 **UET Taxila** - Rawalpindi, Punjab, Pakistan
-
-
-## Experience
-
-- 🖌️ **Flutter Developer** at Codnocrats Innovating Solutions - Peshawer
-
-    📆 June 2020 - present
-   
-- 🖌️ **Freelance Flutter Developer** at Fiverr
-
-    📆 Nov 2020 - present
-
-</details>
+- [PayPal Payment Integration in Flutter Using WebView](https://arxlan40.medium.com/paypal-payment-integration-in-flutter-using-webview-c12d33a03486)
+- [How to Integrate Google Drive APIs & Use Google Drive as Storage Bucket for flutter Application?](https://arxlan40.medium.com/how-to-integrate-google-drive-apis-use-google-drive-as-storage-bucket-for-flutter-application-2c1daabd47d1)
+- [Learning MERN stack in 100 days of Code challenge](https://arxlan40.medium.com/learning-mern-stack-in-100-days-of-code-challenge-64553e32389b)
 
 
 <!--

@@ -12,12 +12,9 @@
 
 [ <img align="left" alt="Arsalan Umar | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arxlanumer60@gmail.com" />][gmail]
 [ <img target="_blank" align="left" alt="Arsalan Umar | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arxlan40" />][twitter]
-
 <br />
 <br/>
-
 #### Technologies
-
 <img align="left" alt="Dart" width="30px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"/>
 <img align="left" alt="Flutter" width="30pxpx" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
 <img align="left" alt="Firebase" width="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
@@ -25,8 +22,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-
-<br />
+<br >
 <br/>
 ### Latest Medium Articles :page_with_curl:
 

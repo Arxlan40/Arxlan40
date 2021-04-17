@@ -8,11 +8,12 @@
 - ⛳️ 2021 Goals: Being a Fully Fledged Full Stack Developer and contribute to open source and community
 - ⚡ Fun fact: A E-Gaming enthusiast
 
-#### You can find me here:
-[ <img align="left" alt="Arsalan Umar | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arxlanumer60@gmail.com" />][gmail]
-[ <img target="_blank" align="left" alt="Arsalan Umar | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arxlan40" />][twitter]
-<br />
-<br/>
+### Connect with me:
+
+[<img alt="Twitter" src="https://img.shields.io/badge/arxlan401%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/arxlan40%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/arxlan_umar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+ 
 #### Technologies
 <img align="left" alt="Dart" width="30px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"/>
 <img align="left" alt="Flutter" width="30pxpx" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
@@ -33,7 +34,7 @@
 [![Arsalan Umar's github stats](https://github-readme-stats.vercel.app/api?username=Arxlan40&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/Anonster/github-readme-stats)
 
 #### Most Used Languages
-[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=Arxlan40&langs_count=5)](https://github.com/Arxlan40/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxlan40&layout=compact&theme=blueberry)](https://github.com/arxlan40/github-readme-stats)
 
 
 

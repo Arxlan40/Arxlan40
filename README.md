@@ -21,7 +21,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
-<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/>
 
 ### Latest Medium Articles
 
@@ -54,4 +54,7 @@ Here are some ideas to get you started:
 
 
 [twitter]: https://twitter.com/arxlan40
+[linkedin]: https://www.linkedin.com/in/arxlan40/
+[instagram]: https://www.instagram.com/arxlan_umar/
+
 [gmail]: mailto:arxlanumer60@gmail.com

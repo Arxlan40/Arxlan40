@@ -12,6 +12,7 @@
 
 [<img alt="Twitter" src="https://img.shields.io/badge/arxlan40%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/arxlan40%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13399036/arsalan-umer)
  
 ### Technologies
 <img align="left" alt="Dart" width="30px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"/>

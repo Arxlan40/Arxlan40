@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Arsalan Umar</h2>
 
-<p align="center">I’m a Mobile application developer with over one and half year of experience in Flutter cross-platform. Love to keep my hands dirty in coding, designing solutions, code review, and in most of all kind of tech work. I have extensive experience in developing innovative and complex Android and IOS applications.
+<p align="center">I’m a Mobile application developer with over two years of experience in Flutter cross-platform. Love to keep my hands dirty in coding, designing solutions, code review, and in most of all kind of tech work. I have extensive experience in developing innovative and complex Android and IOS applications.
 
 
 - 🌱 I’m currently learning MERN Stack 😊
